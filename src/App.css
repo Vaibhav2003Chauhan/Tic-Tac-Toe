@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+/* Custom css */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* .main-board{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 70%;
+    min-width: 100%;
+} */
+
+.square {
+  width:50px;
+  height: 50px
+}
